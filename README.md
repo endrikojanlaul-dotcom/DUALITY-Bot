@@ -14,6 +14,6 @@ Policies
 - `docs/TERMS_OF_SERVICE.md` — Terms of Service for the Bot
 - `docs/PRIVACY_POLICY.md` — Privacy Policy describing data collection and retention
 
-- Notes
+Notes
 - Uses SQLite by default.
 - Commands are implemented as hybrid commands (slash + prefix `!`).
